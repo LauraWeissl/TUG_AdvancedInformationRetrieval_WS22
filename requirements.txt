@@ -1,0 +1,14 @@
+matplotlib==3.6.2
+pandas==1.5.2
+scikit_learn==1.2.0
+torch==1.12.1+cu113
+torchinfo==1.7.1
+tqdm==4.64.1
+transformers==4.25.1
+bertopic==0.13.0
+en_core_web_md==3.3.0
+nltk==3.7
+numpy==1.21.5
+scipy==1.7.3
+spacy==3.3.1
+wordcloud==1.8.2.2
